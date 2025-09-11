@@ -22,7 +22,7 @@ def filter_data(df, område, parameter):
 
 def plot_stacked_bar(df):
     df = df.copy()
-    df["Verdi_rundet"] = df["Verdi (tonn)"].round(0).astype(int)
+    df["Verdi_rundet"] = df["Verdi (tonn)"].round(3)
     chart = (
         alt.Chart(df)
         .mark_bar()
@@ -54,7 +54,7 @@ def plot_baseline_contribution(df):
     total = baseline_df.groupby("Område")["Verdi (tonn)"].transform("sum")
     baseline_df = baseline_df.copy()
     baseline_df["Prosent"] = (baseline_df["Verdi (tonn)"] / total) * 100
-    baseline_df["Prosent_rundet"] = baseline_df["Prosent"].round(0).astype(int)
+    baseline_df["Prosent_rundet"] = baseline_df["Prosent"].round(1)
 
     chart = (
         alt.Chart(baseline_df)
