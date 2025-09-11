@@ -22,7 +22,7 @@
 
  * For WWTPs, all measures from Scenario A are included (i.e. the treatment type is changed to `Kjemisk-biologisk m/N-fjerning` and treatment efficiencies are at least 80% for TOTN, 95% for BOF5, 95% for KOF and 95% for SS for all sites >10 000 p.e.).
 
- * In addition, sites >10 000 p.e. with outflows **directly** to Oslofjorden are upgraded to have at least 85% efficiency for TOTN. The list of sites with direct discharges is the same as those originally defined as "internal sources" in the Martini model. See [here]() for details.
+ * In addition, sites >10 000 p.e. with outflows **directly** to Oslofjorden are upgraded to have at least 85% efficiency for TOTN. The list of sites with direct discharges is the same as those originally defined as "internal sources" in the Martini model. See [here](https://github.com/NIVANorge/oslomod_phase3_teotil/blob/main/data/wwtp_direct_to_oslofjord.csv) for details.
 
  * WWTPs with capacity between 5000 to 10 000 p.e. are upgraded to have at least 70% efficiency for TOTN. The site type ("renseprinsipp") is not changed.
 
