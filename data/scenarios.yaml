@@ -1,0 +1,63 @@
+# NOTE: All site capacity ranges include the lower limit and exclude the upper limit
+# e.g. '1000-10000' means (1000 <= capacity < 10000)
+
+Baseline:
+  agri_scen_name: null
+  overflow:
+    "1000-1e10": 2
+
+Scenario_A:
+  agri_scen_name: null
+  overflow:
+    "1000-1e10": 2
+  upgrade_by_capacity:
+    "10000-1e10":
+      type: "Kjemisk-biologisk m/N-fjerning"
+      totn: 80
+      ss: 95
+      bof5: 95
+      kof: 95
+      
+Scenario_B:
+  agri_scen_name: null
+  overflow:
+    "1000-1e10": 1
+  upgrade_by_capacity:
+    "5000-10000":
+      type: null  # Don't change the type
+      totn: 70
+    "10000-1e10":
+      type: "Kjemisk-biologisk m/N-fjerning"
+      totn: 80
+      ss: 95
+      bof5: 95
+      kof: 95
+  upgrade_by_id:
+    id_list:
+      - "3103.0052.03"
+      - "3112.0009.01"
+      - "3103.0153.01"
+      - "3218.0016.01"
+      - "3214.0019.01"
+      - "3203.0059.01"
+      - "0301.0979.01"
+      - "3301.0187.01"
+      - "3312.0091.01"
+      - "3901.0045.01"
+      - "3901.0047.01"
+      - "3903.0025.01"
+      - "3905.0110.01"
+      - "3907.0070.01"
+      - "3909.0040.01"
+      - "3907.0206.01"
+      - "4001.0074.01"
+      - "4001.0076.01"
+      - "4001.0077.01"
+      - "4012.0041.01"
+      - "4012.0044.01"
+      - "4012.0045.01"
+    type: "Kjemisk-biologisk m/N-fjerning"
+    totn: 85
+    ss: 95
+    bof5: 95
+    kof: 95
