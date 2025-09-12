@@ -26,7 +26,7 @@ filtered_df = filter_data(df, selected_område, selected_parameter)
 st.title("OsloMod scenario data")
 
 with st.expander("ℹ️ Detaljer om scenariene (klikk for å åpne)"):
-    with open("./data/scenario_info.md", "r", encoding="utf-8") as f:
+    with open("./data/scenario_info_nor.md", "r", encoding="utf-8") as f:
         st.markdown(f.read())
 
 st.altair_chart(plot_stacked_bar(filtered_df), use_container_width=True)
