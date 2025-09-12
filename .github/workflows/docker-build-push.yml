@@ -5,9 +5,9 @@ on:
       - 'main'
     paths:
       - '.github/workflows/**'
-      - 'app'
-      - 'code'
-      - 'data'
+      - 'app/**'
+      - 'code/**'
+      - 'data/**'
       - 'Dockerfile'
       - 'requirements.txt'
 env:
