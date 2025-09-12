@@ -21,3 +21,9 @@ The app is designed to help with sense-checking the scenarios. It is not very re
  2. Start the container with `docker run -p 8501:8501 oslomod_scenarios`
 
  3. Open a new tab and navigate to http://localhost:8501
+
+ ## Deployed Streamlit App
+
+ The app is deployed publicly on https://oslomod-phase3-teotil.p.niva.no. The deployment and instructions are found [here](https://github.com/NIVANorge/nivacloud-manifests/blob/main/workloads/oslomod_phase3_teotil/README.md)(requires a NIVA user).
+
+ 
