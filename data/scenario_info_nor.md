@@ -12,7 +12,7 @@
 
  * Jordbrukstiltak legges til de fem miljøkravsonene, tilsvarende "forskrifter om miljøkrav". Utenom miljøkravsonene opprettholdes grunnlinjeforholdene.
 
- * Alle avløpsanlegg større enn 10 000 pe oppgraderes til «Kjemisk-biologisk m/N-fjerning», med minimum renseeffektivitet på 80 % for TOTN, 95 % for BOF5, 95 % for KOF, og 95 % for SS. Alle anlegg som allerede har bedre renseeffektivitet enn dette endres ikke (f.eks. hvis et anlegg allerede har 85 % effektivitet for TOTN i basisscenariet, vil det beholde denne effektiviteten i dette scenariet).
+ * Alle avløpsanlegg større enn 10 000 pe oppgraderes, med minimum renseeffektivitet på 80 % for TOTN, 95 % for BOF5, 95 % for KOF, og 95 % for SS. Alle anlegg som allerede har bedre renseeffektivitet enn dette endres ikke (f.eks. hvis et anlegg allerede har 85 % effektivitet for TOTN i basisscenariet, vil det beholde denne effektiviteten i dette scenariet). Renseprinsippet endres ikke.
 
  * Anta 2 % overløp fra alle anlegg større enn 1000 pe (det samme som for basisscenariet).
 
@@ -20,10 +20,10 @@
 
  * Jordbrukstiltak maksimeres overalt - både innenfor og utenfor miljøkravsoner.
 
- * For avløpsrensing er alle tiltak fra Scenario A inkludert (dvs. rensetypen endres til «Kjemisk-biologisk m/N-fjerning» og renseeffektiviteten er minst 80 % for TOTN, 95 % for BOF5, 95 % for KOF, og 95 % for SS for alle anlegg >10 000 pe).
+ * For avløpsrensing er alle tiltak fra Scenario A inkludert (dvs. renseeffektiviteten er minst 80 % for TOTN, 95 % for BOF5, 95 % for KOF, og 95 % for SS for alle anlegg >10 000 pe).
 
  * I tillegg oppgraderes anlegg >10 000 pe med utløp **direkte** til Oslofjorden til å ha minst 85 % effektivitet for TOTN. Listen over anlegg med direkte utslipp er den samme som de som er definert som «interne kilder» i den opprinnelige Martini-modellen. Se [her](https://github.com/NIVANorge/oslomod_phase3_teotil/blob/main/data/wwtp_direct_to_oslofjord.csv) for detaljer.
 
- * Avløpsanlegg med kapasitet mellom 5000 og 10 000 pe oppgraderes til å ha minst 70 % effektivitet for TOTN. Renseprinsippet endres imidlertid ikke.
+ * Avløpsanlegg med kapasitet mellom 5000 og 10 000 pe oppgraderes til å ha minst 70 % effektivitet for TOTN. Renseprinsippet endres ikke.
 
 * Overløp reduseres til 1 % av tilløpet for anlegg >1000 pe.
