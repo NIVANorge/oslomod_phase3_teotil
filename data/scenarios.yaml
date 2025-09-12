@@ -2,24 +2,24 @@
 # e.g. '1000-10000' means (1000 <= capacity < 10000)
 
 Baseline:
-  agri_scen_name: null
+  agri_scen_name: "Baseline"
   overflow:
     "1000-1e10": 2
 
 Scenario_A:
-  agri_scen_name: null
+  agri_scen_name: "SCA"
   overflow:
     "1000-1e10": 2
   upgrade_by_capacity:
     "10000-1e10":
-      type: "Kjemisk-biologisk m/N-fjerning"
+      type: null  # Don't change the type
       totn: 80
       ss: 95
       bof5: 95
       kof: 95
       
 Scenario_B:
-  agri_scen_name: null
+  agri_scen_name: "SCB"
   overflow:
     "1000-1e10": 1
   upgrade_by_capacity:
@@ -27,7 +27,7 @@ Scenario_B:
       type: null  # Don't change the type
       totn: 70
     "10000-1e10":
-      type: "Kjemisk-biologisk m/N-fjerning"
+      type: null  # Don't change the type
       totn: 80
       ss: 95
       bof5: 95
@@ -56,7 +56,7 @@ Scenario_B:
       - "4012.0041.01"
       - "4012.0044.01"
       - "4012.0045.01"
-    type: "Kjemisk-biologisk m/N-fjerning"
+    type: null  # Don't change the type
     totn: 85
     ss: 95
     bof5: 95
