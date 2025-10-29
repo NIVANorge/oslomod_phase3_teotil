@@ -1535,12 +1535,12 @@ Scenario_B,001,Jordbruk,TON,85.08570201633736
 Scenario_B,001,Jordbruk,TOTN,346.0463481375379
 Scenario_B,001,Jordbruk,TOTP,2.345247833872414
 Scenario_B,001,Jordbruk,TPP,1.351742521191962
-Scenario_B,001,Kommunalt avløp,DIN,36.070414923866274
+Scenario_B,001,Kommunalt avløp,DIN,30.945648257199604
 Scenario_B,001,Kommunalt avløp,SS,61.62122899256466
 Scenario_B,001,Kommunalt avløp,TDP,0.27908736224516795
 Scenario_B,001,Kommunalt avløp,TOC,45.88868463671849
-Scenario_B,001,Kommunalt avløp,TON,7.105289641326191
-Scenario_B,001,Kommunalt avløp,TOTN,43.17570456519246
+Scenario_B,001,Kommunalt avløp,TON,6.53588964132619
+Scenario_B,001,Kommunalt avløp,TOTN,37.4815378985258
 Scenario_B,001,Kommunalt avløp,TOTP,1.5672491982519394
 Scenario_B,001,Kommunalt avløp,TPP,1.2881618360067715
 Scenario_B,001,Spredt avløp,DIN,13.181853421124265
@@ -1583,12 +1583,12 @@ Scenario_B,002,Jordbruk,TON,1378.4785231792557
 Scenario_B,002,Jordbruk,TOTN,6035.578415566585
 Scenario_B,002,Jordbruk,TOTP,73.00877125686388
 Scenario_B,002,Jordbruk,TPP,55.831215455411915
-Scenario_B,002,Kommunalt avløp,DIN,660.7560829497694
+Scenario_B,002,Kommunalt avløp,DIN,648.0889829497693
 Scenario_B,002,Kommunalt avløp,SS,544.9784139630374
 Scenario_B,002,Kommunalt avløp,TDP,7.4347190591092795
 Scenario_B,002,Kommunalt avløp,TOC,756.6926716773079
-Scenario_B,002,Kommunalt avløp,TON,176.26388900536344
-Scenario_B,002,Kommunalt avløp,TOTN,837.0199719551329
+Scenario_B,002,Kommunalt avløp,TON,171.33782233869672
+Scenario_B,002,Kommunalt avløp,TOTN,819.4268052884662
 Scenario_B,002,Kommunalt avløp,TOTP,23.062729947707044
 Scenario_B,002,Kommunalt avløp,TPP,15.628010888597766
 Scenario_B,002,Spredt avløp,DIN,251.9225965766129
@@ -1628,12 +1628,12 @@ Scenario_B,003,Jordbruk,TON,85.80834518484836
 Scenario_B,003,Jordbruk,TOTN,369.48906647840244
 Scenario_B,003,Jordbruk,TOTP,5.146232226360685
 Scenario_B,003,Jordbruk,TPP,2.8143533333169244
-Scenario_B,003,Kommunalt avløp,DIN,37.687080126774454
-Scenario_B,003,Kommunalt avløp,SS,112.11735713966077
+Scenario_B,003,Kommunalt avløp,DIN,40.51201346010779
+Scenario_B,003,Kommunalt avløp,SS,116.7021904729941
 Scenario_B,003,Kommunalt avløp,TDP,0.43620266472124736
-Scenario_B,003,Kommunalt avløp,TOC,71.88116825673944
-Scenario_B,003,Kommunalt avløp,TON,14.390938796087255
-Scenario_B,003,Kommunalt avløp,TOTN,52.07801892286171
+Scenario_B,003,Kommunalt avløp,TOC,87.89743492340612
+Scenario_B,003,Kommunalt avløp,TON,15.489505462753923
+Scenario_B,003,Kommunalt avløp,TOTN,56.00151892286171
 Scenario_B,003,Kommunalt avløp,TOTP,3.241103510385535
 Scenario_B,003,Kommunalt avløp,TPP,2.8049008456642874
 Scenario_B,003,Spredt avløp,DIN,10.008936068926689
@@ -1674,12 +1674,12 @@ Scenario_B,004,Jordbruk,TON,38.06027610891193
 Scenario_B,004,Jordbruk,TOTN,188.80991923261047
 Scenario_B,004,Jordbruk,TOTP,4.985949667891815
 Scenario_B,004,Jordbruk,TPP,4.1088442459668535
-Scenario_B,004,Kommunalt avløp,DIN,23.762933333333333
+Scenario_B,004,Kommunalt avløp,DIN,20.0522
 Scenario_B,004,Kommunalt avløp,SS,61.153
 Scenario_B,004,Kommunalt avløp,TDP,0.20413333333333336
 Scenario_B,004,Kommunalt avløp,TOC,33.90416666666667
-Scenario_B,004,Kommunalt avløp,TON,8.652866666666666
-Scenario_B,004,Kommunalt avløp,TOTN,32.4158
+Scenario_B,004,Kommunalt avløp,TON,7.209799999999999
+Scenario_B,004,Kommunalt avløp,TOTN,27.262
 Scenario_B,004,Kommunalt avløp,TOTP,1.5703666666666667
 Scenario_B,004,Kommunalt avløp,TPP,1.3662333333333334
 Scenario_B,004,Spredt avløp,DIN,8.698733333333333
@@ -2006,12 +2006,12 @@ Scenario_B,012,Jordbruk,TON,403.89539705481775
 Scenario_B,012,Jordbruk,TOTN,1586.931832955601
 Scenario_B,012,Jordbruk,TOTP,15.434923598861166
 Scenario_B,012,Jordbruk,TPP,10.012059835335135
-Scenario_B,012,Kommunalt avløp,DIN,226.9550163388337
-Scenario_B,012,Kommunalt avløp,SS,234.93472322949302
+Scenario_B,012,Kommunalt avløp,DIN,224.35644967216703
+Scenario_B,012,Kommunalt avløp,SS,229.5647898961597
 Scenario_B,012,Kommunalt avløp,TDP,1.0856215643006701
-Scenario_B,012,Kommunalt avløp,TOC,340.49325816932225
-Scenario_B,012,Kommunalt avløp,TON,58.45080112245055
-Scenario_B,012,Kommunalt avløp,TOTN,285.4058174612842
+Scenario_B,012,Kommunalt avløp,TOC,324.9718248359889
+Scenario_B,012,Kommunalt avløp,TON,57.44026778911722
+Scenario_B,012,Kommunalt avløp,TOTN,281.79671746128423
 Scenario_B,012,Kommunalt avløp,TOTP,5.166646720000611
 Scenario_B,012,Kommunalt avløp,TPP,4.081025155699941
 Scenario_B,012,Spredt avløp,DIN,95.5474393860794
@@ -2054,12 +2054,12 @@ Scenario_B,013,Jordbruk,TON,44.708276452949946
 Scenario_B,013,Jordbruk,TOTN,208.15102473601553
 Scenario_B,013,Jordbruk,TOTP,6.635261781575246
 Scenario_B,013,Jordbruk,TPP,5.0512441326743645
-Scenario_B,013,Kommunalt avløp,DIN,89.80369999999999
-Scenario_B,013,Kommunalt avløp,SS,168.91189999999997
+Scenario_B,013,Kommunalt avløp,DIN,96.44523333333332
+Scenario_B,013,Kommunalt avløp,SS,174.70673333333332
 Scenario_B,013,Kommunalt avløp,TDP,0.9645000000000001
-Scenario_B,013,Kommunalt avløp,TOC,159.67656666666667
-Scenario_B,013,Kommunalt avløp,TON,16.5081
-Scenario_B,013,Kommunalt avløp,TOTN,106.31179999999999
+Scenario_B,013,Kommunalt avløp,TOC,167.238
+Scenario_B,013,Kommunalt avløp,TON,19.0909
+Scenario_B,013,Kommunalt avløp,TOTN,115.53613333333332
 Scenario_B,013,Kommunalt avløp,TOTP,6.913033333333334
 Scenario_B,013,Kommunalt avløp,TPP,5.948533333333334
 Scenario_B,013,Spredt avløp,DIN,8.50064941662268
@@ -2190,12 +2190,12 @@ Scenario_B,016,Jordbruk,TON,131.2289390402187
 Scenario_B,016,Jordbruk,TOTN,559.0429076537697
 Scenario_B,016,Jordbruk,TOTP,8.72221506968692
 Scenario_B,016,Jordbruk,TPP,4.566300545125738
-Scenario_B,016,Kommunalt avløp,DIN,137.09875321174854
-Scenario_B,016,Kommunalt avløp,SS,154.42262531357187
+Scenario_B,016,Kommunalt avløp,DIN,141.03098654508187
+Scenario_B,016,Kommunalt avløp,SS,157.85362531357188
 Scenario_B,016,Kommunalt avløp,TDP,0.9582590551661417
-Scenario_B,016,Kommunalt avløp,TOC,146.76875057068358
-Scenario_B,016,Kommunalt avløp,TON,43.14840673368051
-Scenario_B,016,Kommunalt avløp,TOTN,180.24715994542905
+Scenario_B,016,Kommunalt avløp,TOC,150.7377505706836
+Scenario_B,016,Kommunalt avløp,TON,44.67754006701386
+Scenario_B,016,Kommunalt avløp,TOTN,185.7085266120957
 Scenario_B,016,Kommunalt avløp,TOTP,4.836506387158839
 Scenario_B,016,Kommunalt avløp,TPP,3.8782473319926978
 Scenario_B,016,Spredt avløp,DIN,49.15145626647245
@@ -2238,12 +2238,12 @@ Scenario_B,017,Jordbruk,TON,15.85481326736958
 Scenario_B,017,Jordbruk,TOTN,63.48037636053414
 Scenario_B,017,Jordbruk,TOTP,0.8011606874614955
 Scenario_B,017,Jordbruk,TPP,0.34632610894959354
-Scenario_B,017,Kommunalt avløp,DIN,19.382467448736143
-Scenario_B,017,Kommunalt avløp,SS,26.669188408243162
+Scenario_B,017,Kommunalt avløp,DIN,22.17950078206948
+Scenario_B,017,Kommunalt avløp,SS,29.109588408243166
 Scenario_B,017,Kommunalt avløp,TDP,0.08962066723738822
-Scenario_B,017,Kommunalt avløp,TOC,30.578765133317205
-Scenario_B,017,Kommunalt avløp,TON,6.312358321306153
-Scenario_B,017,Kommunalt avløp,TOTN,25.694825770042296
+Scenario_B,017,Kommunalt avløp,TOC,32.243031799983875
+Scenario_B,017,Kommunalt avløp,TON,7.400058321306154
+Scenario_B,017,Kommunalt avløp,TOTN,29.57955910337563
 Scenario_B,017,Kommunalt avløp,TOTP,0.5968579730832194
 Scenario_B,017,Kommunalt avløp,TPP,0.5072373058458313
 Scenario_B,017,Spredt avløp,DIN,8.885180420505915
@@ -2538,12 +2538,12 @@ Scenario_B,Ytre Oslofjord,Jordbruk,TON,2526.607498261934
 Scenario_B,Ytre Oslofjord,Jordbruk,TOTN,10985.26058865346
 Scenario_B,Ytre Oslofjord,Jordbruk,TOTP,157.82088581093075
 Scenario_B,Ytre Oslofjord,Jordbruk,TPP,114.04689208954068
-Scenario_B,Ytre Oslofjord,Kommunalt avløp,DIN,1390.5519983823556
-Scenario_B,Ytre Oslofjord,Kommunalt avløp,SS,1646.1353073035054
+Scenario_B,Ytre Oslofjord,Kommunalt avløp,DIN,1382.6465650490222
+Scenario_B,Ytre Oslofjord,Kommunalt avløp,SS,1657.016440636839
 Scenario_B,Ytre Oslofjord,Kommunalt avløp,TDP,12.499430032388164
-Scenario_B,Ytre Oslofjord,Kommunalt avløp,TOC,1799.7946573301242
-Scenario_B,Ytre Oslofjord,Kommunalt avløp,TON,377.6523895452851
-Scenario_B,Ytre Oslofjord,Kommunalt avløp,TOTN,1768.2043879276407
+Scenario_B,Ytre Oslofjord,Kommunalt avløp,TOC,1813.4841906634576
+Scenario_B,Ytre Oslofjord,Kommunalt avløp,TON,376.0015228786184
+Scenario_B,Ytre Oslofjord,Kommunalt avløp,TOTN,1758.6480879276407
 Scenario_B,Ytre Oslofjord,Kommunalt avløp,TOTP,53.79199100843886
 Scenario_B,Ytre Oslofjord,Kommunalt avløp,TPP,41.2925609760507
 Scenario_B,Ytre Oslofjord,Spredt avløp,DIN,529.6977009889661
@@ -2703,12 +2703,12 @@ Scenario_B,Hele Oslofjord,Jordbruk,TON,2581.8689742437614
 Scenario_B,Hele Oslofjord,Jordbruk,TOTN,11226.2892272383
 Scenario_B,Hele Oslofjord,Jordbruk,TOTP,162.91581806840964
 Scenario_B,Hele Oslofjord,Jordbruk,TPP,117.62734162078722
-Scenario_B,Hele Oslofjord,Kommunalt avløp,DIN,1986.0635211938566
-Scenario_B,Hele Oslofjord,Kommunalt avløp,SS,3574.8795033599486
+Scenario_B,Hele Oslofjord,Kommunalt avløp,DIN,1978.1580878605232
+Scenario_B,Hele Oslofjord,Kommunalt avløp,SS,3585.7606366932823
 Scenario_B,Hele Oslofjord,Kommunalt avløp,TDP,36.10657235019669
-Scenario_B,Hele Oslofjord,Kommunalt avløp,TOC,2858.6512941185633
-Scenario_B,Hele Oslofjord,Kommunalt avløp,TON,566.4404275134046
-Scenario_B,Hele Oslofjord,Kommunalt avløp,TOTN,2552.5039487072613
+Scenario_B,Hele Oslofjord,Kommunalt avløp,TOC,2872.3408274518965
+Scenario_B,Hele Oslofjord,Kommunalt avløp,TON,564.7895608467379
+Scenario_B,Hele Oslofjord,Kommunalt avløp,TOTN,2542.947648707261
 Scenario_B,Hele Oslofjord,Kommunalt avløp,TOTP,106.71548492921275
 Scenario_B,Hele Oslofjord,Kommunalt avløp,TPP,70.60891257901605
 Scenario_B,Hele Oslofjord,Spredt avløp,DIN,549.8709248164771

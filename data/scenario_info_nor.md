@@ -22,7 +22,7 @@
 
  * For avløpsrensing er alle tiltak fra Scenario A inkludert (dvs. renseeffektiviteten er minst 80 % for TOTN, 95 % for BOF5, 95 % for KOF, og 95 % for SS for alle anlegg >10 000 pe).
 
- * I tillegg oppgraderes anlegg >10 000 pe med utløp **direkte** til Oslofjorden til å ha minst 85 % effektivitet for TOTN. Listen over anlegg med direkte utslipp er den samme som de som er definert som «interne kilder» i den opprinnelige Martini-modellen. Se [her](https://github.com/NIVANorge/oslomod_phase3_teotil/blob/main/data/wwtp_direct_to_oslofjord.csv) for detaljer.
+ * I tillegg oppgraderes anlegg >10 000 pe med utløp **direkte** til Oslofjorden til å ha minst 85 % effektivitet for TOTN. Listen over anlegg med direkte utslipp er den samme som de som er definert som «interne kilder» i den opprinnelige Martini-modellen. Se [her](https://github.com/NIVANorge/oslomod_phase3_teotil/blob/main/data/of800_wwtp_direct_to_oslofjord.csv) for detaljer.
 
  * Avløpsanlegg med kapasitet mellom 5000 og 10 000 pe oppgraderes til å ha minst 70 % effektivitet for TOTN. Renseprinsippet endres ikke.
 
