@@ -305,7 +305,7 @@ def upgrade_sites_by_capacity(df, scen_dict):
 
                 # Update values where the true efficiency is below the new value
                 df["eff_new"] = new_eff
-                df["eff_new"] = df[["eff_true", "eff_new"]].max(axis=1).round(1)
+                df["eff_new"] = df[["eff_true", "eff_new"]].max(axis=1)
                 assert df["eff_new"].between(0, 100).all()
 
                 # Calculate outflows with the new efficiency
@@ -353,7 +353,7 @@ def upgrade_sites_by_id(df, scen_dict):
 
             # Update values where the true efficiency is below the new value
             df["eff_new"] = new_eff
-            df["eff_new"] = df[["eff_true", "eff_new"]].max(axis=1).round(1)
+            df["eff_new"] = df[["eff_true", "eff_new"]].max(axis=1)
             assert df["eff_new"].between(0, 100).all()
 
             # Calculate outflows with the new efficiency
