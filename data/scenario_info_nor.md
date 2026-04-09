@@ -8,7 +8,7 @@
 
  * Overløp på 2 % antas for alle avløpsanlegg større enn 1000 personekvivalenter (pe). Hvis for eksempel et anlegg har et målt tilsig på 1000 tonn TOTP og et målt utløp på 400 tonn, antar basisscenariet TOTP-tap ved utløpskoordinatene `400 + 0,02*1000 = 420` tonn.
 
-## Scenario A ("Vedtatte tiltak – effekt 2033")
+## Scenario A (middels ambisjonsnivå)
 
  * Jordbrukstiltak legges til de fem miljøkravsonene, tilsvarende "forskrifter om miljøkrav". Utenom miljøkravsonene opprettholdes grunnlinjeforholdene.
 
@@ -16,7 +16,7 @@
 
  * Anta 2 % overløp fra alle anlegg større enn 1000 pe (det samme som for basisscenariet).
 
-## Scenario B ("Ambisiøst scenario – effekt ca 2040")
+## Scenario B (høyt ambisjonsnivå)
 
  * Jordbrukstiltak maksimeres overalt - både innenfor og utenfor miljøkravsoner.
 

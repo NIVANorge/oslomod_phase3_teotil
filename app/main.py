@@ -24,6 +24,7 @@ filtered_df = filter_data(df, selected_område, selected_parameter)
 
 # Main content
 st.title("OsloMod scenario data")
+st.markdown("Næringsstofftilførsler til Oslofjorden modellert med [TEOTIL3](https://nivanorge.github.io/teotil3)")
 
 with st.expander("ℹ️ Detaljer om scenariene (klikk for å åpne)"):
     with open("./data/scenario_info_nor.md", "r", encoding="utf-8") as f:

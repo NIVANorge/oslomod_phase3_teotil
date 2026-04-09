@@ -8,7 +8,7 @@
 
  * Overflows of 2 % are assumed for all wastewater sites larger than 1000 person equivalents (p.e.). For example, if a site has a measured inflow of 1000 tonnes of TOTP and a measured outflow of 400 tonnes, the Baseline scenario assumes TOTP losses at the outflow co-ordinates of `400 + 0.02*1000 = 420` tonnes.
 
-## Scenario A ("Vedtatte tiltak – effekt 2033")
+## Scenario A (medium ambition)
 
  * Agricultural measures are added to the five "miljøkravsoner", corresponding to "forskrifter om miljøkrav". Outside of the miljøkravsoner, baseline conditions are maintained.
 
@@ -16,7 +16,7 @@
 
  * Assume 2 % overflow from all sites larger than 1000 p.e. (the same as for the baseline).
 
-## Scenario B ("Ambisiøst scenarie – effekt ca 2040")
+## Scenario B (high ambition)
 
  * Agricultural measures are maximised everywhere - both inside and outside of miljøkravsoner.
 
